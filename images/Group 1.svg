@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176.285" height="164.073" viewBox="0 0 176.285 164.073">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.244" y1="0.478" x2="0.627" y2="0.516" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f2ea5"/>
+      <stop offset="1" stop-color="#7e6dfb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.461" y1="0.5" x2="0.989" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.027" y1="0.5" x2="0.793" y2="0.544" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-20" x1="0.939" y1="0.439" x2="0.048" y2="0.755" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-343.715 -416)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="203" height="38" rx="19" transform="translate(520 444.24) rotate(138)" fill="url(#linear-gradient)"/>
+    <path id="Subtraction_5" data-name="Subtraction 5" d="M141.818,46H62A27,27,0,0,0,62,8h79.817a19,19,0,0,1,0,38ZM0,24.35H0A19.018,19.018,0,0,1,16.168,8.182,19.07,19.07,0,0,0,0,24.349Z" transform="translate(352.182 416)" fill="url(#linear-gradient-2)"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M112.469,85H19a19,19,0,0,1,0-38H90.04c.647,16.045,9.24,30.605,22.425,38Z" transform="translate(351 488)" fill="url(#linear-gradient-3)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="12" cy="12" r="12" transform="translate(389 424)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="8" cy="8" r="8" transform="translate(368 424)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="4" cy="4" r="4" transform="translate(368 440)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="4.5" cy="4.5" r="4.5" transform="translate(357 448)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="6" cy="6" r="6" transform="translate(375 442)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="4" cy="4" r="4" transform="translate(381 435)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="4" cy="4" r="4" transform="translate(383 424)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="4" cy="4" r="4" transform="translate(387 444)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="6" cy="6" r="6" transform="translate(366 450)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="4" cy="4" r="4" transform="translate(379 453)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="7" cy="7" r="7" transform="translate(354 435)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="4.5" cy="4.5" r="4.5" transform="translate(359 427)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="6" cy="6" r="6" transform="translate(393 448)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="4" cy="4" r="4" transform="translate(413 435)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="4.5" cy="4.5" r="4.5" transform="translate(410 443)" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="3" cy="3" r="3" transform="translate(406 451)" fill="url(#linear-gradient-4)"/>
+    <path id="Path_9" data-name="Path 9" d="M62.289-46.9a9.44,9.44,0,0,1-2.875,6.926A9.44,9.44,0,0,1,52.488-37.1a9.443,9.443,0,0,1-7.128-3.078A15.451,15.451,0,0,0,35.316-43.9a15.452,15.452,0,0,0-12.11,5.751A20.439,20.439,0,0,0,18.225-24.3a20.4,20.4,0,0,0,4.982,13.892A15.5,15.5,0,0,0,35.316-4.7,15.261,15.261,0,0,0,45.522-8.505a9.6,9.6,0,0,1,6.8-2.754,9.44,9.44,0,0,1,6.925,2.875,9.44,9.44,0,0,1,2.875,6.926,9.171,9.171,0,0,1-2.916,6.966Q49.167,16.2,35.316,16.2a31.213,31.213,0,0,1-17.739-5.427A38.175,38.175,0,0,1,4.739-3.969,44.189,44.189,0,0,1,0-24.3,44.189,44.189,0,0,1,4.739-44.631,38.175,38.175,0,0,1,17.577-59.373,31.213,31.213,0,0,1,35.316-64.8q13.689,0,23.976,10.773v.081A9.305,9.305,0,0,1,62.289-46.9Z" transform="translate(445 557)" fill="url(#linear-gradient-20)"/>
+  </g>
+</svg>
